@@ -1,0 +1,13 @@
+{
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "{aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee}"
+		}
+	},
+	"manifest_version": 2,
+	"name": "Vite Web Extension",
+	"version": "0",
+	"background": {
+		"page": "src/bg.html"
+	}
+}

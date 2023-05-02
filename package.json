@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build"
+	},
+	"devDependencies": {
+		"typescript": "^5.0.4",
+		"vite": "^4.3.3",
+		"vite-plugin-web-extension": "^3.0.6"
+	}
+}
